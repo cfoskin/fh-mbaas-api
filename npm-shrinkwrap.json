@@ -325,8 +325,8 @@
     },
     "fh-mbaas-client": {
       "version": "1.1.1",
-      "from": "git+https://github.com/cfoskin/fh-mbaas-client.git#05eb074c6c6688b8e4bfe3cb135f4f41032d02c0",
-      "resolved": "git+https://github.com/cfoskin/fh-mbaas-client.git#05eb074c6c6688b8e4bfe3cb135f4f41032d02c0",
+      "from": "git+https://github.com/cfoskin/fh-mbaas-client.git#d0843468f0a3a51de4ad0396e022fbedee9320b0",
+      "resolved": "git+https://github.com/cfoskin/fh-mbaas-client.git#d0843468f0a3a51de4ad0396e022fbedee9320b0",
       "dependencies": {
         "fh-logger": {
           "version": "0.5.0",
